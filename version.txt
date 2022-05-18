@@ -1,5 +1,6 @@
 {
   "NewGen":{
-    "aaa":"aaa"
+    "sha512":"uluxk2I7pYYM8PBTMI0iGmMFpcrqXJiOF9rw8iv6Xpk=",
+    "url":""
   }
 }
