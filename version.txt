@@ -1,4 +1,5 @@
-
 {
-  "xxx":"xxx"
+  "NewGen":{
+    "aaa":"aaa"
+  }
 }
