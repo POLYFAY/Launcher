@@ -6,7 +6,7 @@
   },
   "DLL":{
     "name":"DLL",
-    "sha512":"iGiB3C/KTaNtf2+l+ruRW3p7QHHL0O74vEt3G6qoelw=",
+    "sha512":"uJTAdeGvwL90ldYH7y4nCaeFsvr8ekWpgMKGk8vX6SE=",
     "url":"https://raw.githubusercontent.com/POLYFAY/Launcher/main/EXE/NewGen/DLL.exe"
   }
 }
