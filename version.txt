@@ -1,6 +1,6 @@
 {
   "NewGen":{
-    "sha512":"uluxk2I7pYYM8PBTMI0iGmMFpcrqXJiOF9rw8iv6Xpk=",
+    "sha512":"GunZWWjoa4mlHP+nx1hD28IY5GGBc0T0LvWMrl/6b8k=",
     "url":""
   }
 }
