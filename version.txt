@@ -6,7 +6,7 @@
   },
   "full-defall":{
     "name":"update001",
-    "SHA256":"Fxz3i9fNGOfj5b2ybgymjbVbBFxrfhn+3+SOAU8oO34=",
+    "SHA256":"N7H6N7lUd6hgCwr9nDM1VTxNDdhpPJts/FhySfE+7kc=",
     "url":"https://raw.githubusercontent.com/POLYFAY/Launcher/main/EXE/NewGen/DLL.exe"
   }
 }
