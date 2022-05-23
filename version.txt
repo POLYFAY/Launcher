@@ -6,7 +6,7 @@
   },
   "full-defall":{
     "name":"update001",
-    "sha512":"uJTAdeGvwL90ldYH7y4nCaeFsvr8ekWpgMKGk8vX6SE=",
+    "sha512":"f36CYcjWBFH8PyJLypUTB4iMLBjodyEIGwS56hTCOtU=",
     "url":"https://raw.githubusercontent.com/POLYFAY/Launcher/main/EXE/NewGen/DLL.exe"
   }
 }
