@@ -1,12 +1,12 @@
 {
   "NewGen":{
     "name":"NewGen",
-    "sha512":"GunZWWjoa4mlHP+nx1hD28IY5GGBc0T0LvWMrl/6b8k=",
+    "SHA256":"GunZWWjoa4mlHP+nx1hD28IY5GGBc0T0LvWMrl/6b8k=",
     "url":"https://raw.githubusercontent.com/POLYFAY/Launcher/main/EXE/NewGen/DLL.exe"
   },
   "full-defall":{
     "name":"update001",
-    "sha512":"f36CYcjWBFH8PyJLypUTB4iMLBjodyEIGwS56hTCOtU=",
+    "SHA256":"f36CYcjWBFH8PyJLypUTB4iMLBjodyEIGwS56hTCOtU=",
     "url":"https://raw.githubusercontent.com/POLYFAY/Launcher/main/EXE/NewGen/DLL.exe"
   }
 }
