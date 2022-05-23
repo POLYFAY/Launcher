@@ -4,7 +4,7 @@
     "sha512":"GunZWWjoa4mlHP+nx1hD28IY5GGBc0T0LvWMrl/6b8k=",
     "url":"https://raw.githubusercontent.com/POLYFAY/Launcher/main/EXE/NewGen/DLL.exe"
   },
-  "Closefull-defall":{
+  "full-defall":{
     "name":"update001",
     "sha512":"uJTAdeGvwL90ldYH7y4nCaeFsvr8ekWpgMKGk8vX6SE=",
     "url":"https://raw.githubusercontent.com/POLYFAY/Launcher/main/EXE/NewGen/DLL.exe"
